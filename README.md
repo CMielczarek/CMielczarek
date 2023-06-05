@@ -21,7 +21,6 @@
 ## 📊 Statistics 
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMIelczarek&langs_count=6&layout=compact" align = "center"/>&nbsp;
-  <span height="150em" width="auto" style="display: inline-block"></span>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="center"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMIelczarek&langs_count=6&layout=compact" align = "center"/>&nbsp;
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="center"/>
 </p> 

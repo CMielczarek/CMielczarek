@@ -20,7 +20,8 @@
 
 ## 📊 Statistics 
 
-<p style="display: flex; flex-direction: column">
+<p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMIelczarek&langs_count=6&layout=compact" align = "center"/>&nbsp;
+  <div height="150em" width="auto"></div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="center"/>
 </p> 

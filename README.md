@@ -6,3 +6,11 @@
 
 
 
+<div style="display: flex;">
+  <div style="width: 50%;">
+    Treść kolumny 1
+  </div>
+  <div style="width: 50%;">
+    Treść kolumny 2
+  </div>
+</div>

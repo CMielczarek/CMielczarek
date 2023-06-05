@@ -15,15 +15,9 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
-## S
-<picture style='width: 100%'>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=CMielczarek&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+## Statistics 
+
+<p>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMIelczarek&langs_count=6&layout=compact" align = "center"/>&nbsp;
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="center"/>
+</p> 

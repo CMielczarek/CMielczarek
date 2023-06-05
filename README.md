@@ -16,9 +16,9 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
 
 ## S
-<picture>
+<picture style='width: 100%'>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=CMielczarek&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source

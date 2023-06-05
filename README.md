@@ -22,5 +22,5 @@
 
 <p>
   <img padding="0" height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMIelczarek&langs_count=6&layout=compact" align = "left"/>&nbsp;
-  <img padding="0" height="150em" width="49%" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="right"/>
+  <img style="padding: 0" height="150em" width="49%" src="https://github-readme-stats.vercel.app/api?username=CMIelczarek&show_icons=true&theme=tokyonight&count_private=true&hide=issues" align="right"/>
 </p> 
